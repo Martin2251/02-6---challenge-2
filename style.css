@@ -89,3 +89,19 @@ h1 {
 .btn:focus {
     opacity: .75; 
 }
+
+.primary-content{
+    width:62%;
+}
+
+.main{
+    margin-top:3em;
+}
+
+.sidebar{
+    width:32%;
+    text-align:center;
+    color:#fff;
+    background-color: #136c72;
+    padding:1em;
+}
